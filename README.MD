@@ -4,10 +4,11 @@
 
 ![alt text](<Screenshot 2025-01-31 004633.jpg>)
 
-** Kaggle Dataset **
+
+
+**Links**
 [Kaggle Dataset](https://www.kaggle.com/datasets/dylanjcastillo/7k-books-with-metadata)
 
-** Links**
 [HuggingFace API Key](https://huggingface.co/settings/tokens)
 
 [OpenAI API Key](https://platform.openai.com/settings/organization/billing/overview)
@@ -22,10 +23,11 @@
 
 [Gradio](https://www.gradio.app/guides/quickstart)
 
+
 -   If you're using OpenAI, remember to include a `.env` file with the `OPENAI_API_KEY`.
 
 
-** Order of run**
+**Order of run**
 -   data-exploration.ipynb
 -   vector-search.ipynb
 -   text-classification.ipynb
@@ -33,4 +35,4 @@
 -   gradio-dashboard.py
 
 
-** Enjoy!**
+**Enjoy!**
